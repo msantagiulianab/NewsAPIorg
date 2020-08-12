@@ -1,6 +1,6 @@
 # News API org
 
-NewsAPIorg is an `Android app` that `takes full advantage of the API on the www.newsapi.org website.'
+NewsAPIorg is an `Android app` that `takes full advantage of the API on the www.newsapi.org website`.
 
 ## Prerequisites
 
