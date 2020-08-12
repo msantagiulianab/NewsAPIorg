@@ -1,0 +1,2 @@
+NewsAPI.org
+key = 858b60d1c1de4643a9bbf74df08ab1a0
