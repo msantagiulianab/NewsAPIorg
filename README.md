@@ -25,7 +25,7 @@ To check the code, follow these steps:
 
 ## Contributing to News API org
 
-To contribute to Let's Talk Movies, follow these steps:
+To contribute to News API org, follow these steps:
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
