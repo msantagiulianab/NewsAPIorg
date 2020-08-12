@@ -2,6 +2,16 @@
 
 NewsAPIorg is an `Android app` that `takes full advantage of the API on the www.newsapi.org website`.
 
+<p float="left">
+<img src="https://user-images.githubusercontent.com/21276996/90059673-7b221080-dcdb-11ea-98ad-07a3889cc8b5.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90059687-7eb59780-dcdb-11ea-9a3c-069394991eff.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90060039-00a5c080-dcdc-11ea-9f0f-013f3a92f6de.jpg" width="300" />
+</p>
+
+
+
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
